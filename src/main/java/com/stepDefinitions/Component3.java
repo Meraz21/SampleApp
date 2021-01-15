@@ -15,7 +15,7 @@ import com.utill.TestUtill;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-
+/*
 public class Component3 extends TestBase {
 
 	public Component_3_Page com3;
@@ -82,3 +82,4 @@ public class Component3 extends TestBase {
 
 	}
 }
+*/

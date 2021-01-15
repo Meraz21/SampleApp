@@ -15,7 +15,7 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-
+/*
 public class Component1 extends TestBase {
 
 	public Component_1_Page com1;
@@ -83,3 +83,4 @@ public class Component1 extends TestBase {
 	}
 
 }
+*/
