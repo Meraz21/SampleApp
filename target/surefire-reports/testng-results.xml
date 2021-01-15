@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Index Home Regression" duration-ms="32372" started-at="2021-01-14T23:15:16 EST" finished-at="2021-01-14T23:15:49 EST">
+    <groups>
+      <group name="UI Functionality">
+        <method signature="Component_2_Test.clickToAddButtonTest()[pri:2, instance:com.pageTest.Component_2_Test@6325a3ee]" name="clickToAddButtonTest" class="com.pageTest.Component_2_Test"/>
+        <method signature="Component_2_Test.pageTitleTest()[pri:1, instance:com.pageTest.Component_2_Test@6325a3ee]" name="pageTitleTest" class="com.pageTest.Component_2_Test"/>
+      </group> <!-- UI Functionality -->
+    </groups>
+    <test name="Regression Test Suit" duration-ms="32372" started-at="2021-01-14T23:15:16 EST" finished-at="2021-01-14T23:15:49 EST">
+      <class name="com.pageTest.Component_2_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="4043" started-at="2021-01-14T23:15:16 EST" finished-at="2021-01-14T23:15:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clicToRemoveButtonTest()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="clicToRemoveButtonTest" duration-ms="3061" started-at="2021-01-14T23:15:20 EST" finished-at="2021-01-14T23:15:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicToRemoveButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="437" started-at="2021-01-14T23:15:23 EST" finished-at="2021-01-14T23:15:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="3105" started-at="2021-01-14T23:15:24 EST" finished-at="2021-01-14T23:15:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="displayItemsTest()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="displayItemsTest" duration-ms="1474" started-at="2021-01-14T23:15:27 EST" finished-at="2021-01-14T23:15:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayItemsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="426" started-at="2021-01-14T23:15:28 EST" finished-at="2021-01-14T23:15:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="3002" started-at="2021-01-14T23:15:29 EST" finished-at="2021-01-14T23:15:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectLisItemtInVisiblilityTest()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="selectLisItemtInVisiblilityTest" duration-ms="2324" started-at="2021-01-14T23:15:32 EST" finished-at="2021-01-14T23:15:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLisItemtInVisiblilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="406" started-at="2021-01-14T23:15:34 EST" finished-at="2021-01-14T23:15:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="3223" started-at="2021-01-14T23:15:35 EST" finished-at="2021-01-14T23:15:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectListVisiblilityTest()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="selectListVisiblilityTest" duration-ms="1904" started-at="2021-01-14T23:15:38 EST" finished-at="2021-01-14T23:15:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectListVisiblilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="402" started-at="2021-01-14T23:15:40 EST" finished-at="2021-01-14T23:15:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="3098" started-at="2021-01-14T23:15:40 EST" finished-at="2021-01-14T23:15:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pageTitleTest()[pri:1, instance:com.pageTest.Component_2_Test@6325a3ee]" name="pageTitleTest" duration-ms="9" started-at="2021-01-14T23:15:43 EST" finished-at="2021-01-14T23:15:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="422" started-at="2021-01-14T23:15:43 EST" finished-at="2021-01-14T23:15:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="setUp" is-config="true" duration-ms="3084" started-at="2021-01-14T23:15:44 EST" finished-at="2021-01-14T23:15:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickToAddButtonTest()[pri:2, instance:com.pageTest.Component_2_Test@6325a3ee]" name="clickToAddButtonTest" duration-ms="1452" started-at="2021-01-14T23:15:47 EST" finished-at="2021-01-14T23:15:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToAddButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pageTest.Component_2_Test@6325a3ee]" name="tearDown" is-config="true" duration-ms="413" started-at="2021-01-14T23:15:48 EST" finished-at="2021-01-14T23:15:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pageTest.Component_2_Test -->
+    </test> <!-- Regression Test Suit -->
+  </suite> <!-- Index Home Regression -->
+</testng-results>
